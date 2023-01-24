@@ -1,0 +1,2 @@
+best_time;survived_times
+0;0
